@@ -18,6 +18,8 @@ Use the S&P Case-Schiller Home Price Index as a proxy for home prices: https://f
 11) Housing subsidies
 12) Number of Households
 
-**All the work was done in jupyter notebook. 
-Prepared data (with Data cleaning & Data preprocessing) - `Notebook 1 - Data cleaning and Preprocessing` 
-Analysis & model building - `Notebook 2 - Model Building`**
+**All the work was done in jupyter notebook.**
+
+**Prepared data (with Data cleaning & Data preprocessing) - `Notebook 1 - Data cleaning and Preprocessing`**
+
+**Analysis & model building - `Notebook 2 - Model Building`**
