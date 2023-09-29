@@ -20,6 +20,6 @@ Use the S&P Case-Schiller Home Price Index as a proxy for home prices: https://f
 
 **All the work was done in jupyter notebook.**
 
-**Prepared data (with Data cleaning & Data preprocessing) - `Notebook 1 - Data cleaning and Preprocessing`**
+**Prepared data (with Data cleaning & Data preprocessing) - `Notebook 1 - Data clean and Preprocessing`**
 
 **Analysis & model building - `Notebook 2 - Model Building`**
